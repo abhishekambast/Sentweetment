@@ -90,7 +90,7 @@ def add_bg_from_url():
          f"""
          <style>
          .stApp {{
-             background-image: url("https://i.pinimg.com/originals/fa/e8/9f/fae89f8c52b679dfc7357618451c45c5.jpg");
+             background-image: url("https://wallpaperset.com/w/full/1/6/d/89748.jpg");
              background-attachment: fixed;
              background-size: cover
          }}
