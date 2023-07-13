@@ -90,7 +90,7 @@ def add_bg_from_url():
          f"""
          <style>
          .stApp {{
-             background-image: url("https://c1.wallpaperflare.com/preview/944/1/109/depression-man-sadness-emotions.jpg");
+             background-image: url("https://mineraemporium.com/wp-content/uploads/2021/09/third-eye-chakra.png");
              background-attachment: fixed;
              background-size: cover
          }}
